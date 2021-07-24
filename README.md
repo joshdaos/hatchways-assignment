@@ -1,6 +1,6 @@
 # Student Profile Assignment
 
-# This assessment will be evaluated based on the following criteria:
+## This assessment will be evaluated based on the following criteria:
 - Correctness: Is your solution complete and does it pass different test cases?
 - Code Organization, Readability, & Maintainability: Is your code easy to read and
 well organized?
